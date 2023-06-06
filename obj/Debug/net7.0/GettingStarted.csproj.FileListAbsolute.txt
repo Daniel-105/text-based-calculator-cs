@@ -1,0 +1,15 @@
+/home/danielpinto105/Desktop/csProjects/GettingStarted/bin/Debug/net7.0/GettingStarted
+/home/danielpinto105/Desktop/csProjects/GettingStarted/bin/Debug/net7.0/GettingStarted.deps.json
+/home/danielpinto105/Desktop/csProjects/GettingStarted/bin/Debug/net7.0/GettingStarted.runtimeconfig.json
+/home/danielpinto105/Desktop/csProjects/GettingStarted/bin/Debug/net7.0/GettingStarted.dll
+/home/danielpinto105/Desktop/csProjects/GettingStarted/bin/Debug/net7.0/GettingStarted.pdb
+/home/danielpinto105/Desktop/csProjects/GettingStarted/obj/Debug/net7.0/GettingStarted.csproj.AssemblyReference.cache
+/home/danielpinto105/Desktop/csProjects/GettingStarted/obj/Debug/net7.0/GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+/home/danielpinto105/Desktop/csProjects/GettingStarted/obj/Debug/net7.0/GettingStarted.AssemblyInfoInputs.cache
+/home/danielpinto105/Desktop/csProjects/GettingStarted/obj/Debug/net7.0/GettingStarted.AssemblyInfo.cs
+/home/danielpinto105/Desktop/csProjects/GettingStarted/obj/Debug/net7.0/GettingStarted.csproj.CoreCompileInputs.cache
+/home/danielpinto105/Desktop/csProjects/GettingStarted/obj/Debug/net7.0/GettingStarted.dll
+/home/danielpinto105/Desktop/csProjects/GettingStarted/obj/Debug/net7.0/refint/GettingStarted.dll
+/home/danielpinto105/Desktop/csProjects/GettingStarted/obj/Debug/net7.0/GettingStarted.pdb
+/home/danielpinto105/Desktop/csProjects/GettingStarted/obj/Debug/net7.0/GettingStarted.genruntimeconfig.cache
+/home/danielpinto105/Desktop/csProjects/GettingStarted/obj/Debug/net7.0/ref/GettingStarted.dll
